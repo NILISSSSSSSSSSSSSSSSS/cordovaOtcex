@@ -1,0 +1,1 @@
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-x5-webview","cordova-plugin-file-transfer","cordova-plugin-file","cordova-plugin-file-opener2","cordova-plugin-android-permissions","cordova-plugin-camera","org.devgeeks.Canvas2ImagePlugin"]}
